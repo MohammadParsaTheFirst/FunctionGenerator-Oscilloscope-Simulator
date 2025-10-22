@@ -47,6 +47,6 @@ Trigger: Auto-trigger on waveform edges.
 
 
 ## Code Structure
-- `gui.py`: Auto-generated UI for the splash screen.
+- `welcome-page.py`: Auto-generated UI for the splash screen.
 - `gui2.py`: Main devices interface (generator + oscilloscope).
 - `main.py`: Entry point to launch the app (integrates both UIs).
