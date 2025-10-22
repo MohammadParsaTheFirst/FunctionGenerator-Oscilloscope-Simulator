@@ -46,8 +46,7 @@ Channels: View Channel 1 (default) with vertical/horizontal positioning controls
 Trigger: Auto-trigger on waveform edges.
 
 
-##Code Structure
-- `welcome-page-gui.py`: Auto-generated UI for the splash screen.
-- `App.py`: Main devices interface (generator + oscilloscope).
+## Code Structure
+- `gui.py`: Auto-generated UI for the splash screen.
+- `gui2.py`: Main devices interface (generator + oscilloscope).
 - `main.py`: Entry point to launch the app (integrates both UIs).
-- UI files: Generated from .ui files via pyuic5 (do not edit manually).
